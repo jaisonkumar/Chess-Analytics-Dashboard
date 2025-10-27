@@ -83,10 +83,6 @@ A powerful web application for analyzing Lichess chess data with AI-powered insi
 
 ***
 
-## Contributing
-
-Contributions are welcome! Please fork the repo and submit a pull request with improvements or bug fixes.
-
 ***
 
 ## License
